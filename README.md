@@ -1,6 +1,6 @@
 # VueNote
   
-[👉 一个更适合阅读、更专业的笔记网站](https://wsydxiangwang.github.io) 
+[👉 笔记网站](https://wsydxiangwang.github.io) 
 
 
 ### Vue 3.0 学习 
