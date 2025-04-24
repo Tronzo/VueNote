@@ -6,7 +6,7 @@
 ### Vue 3.0 学习 
 
 - [Vue3.0 遗留万年代码也能重构的Composition API](https://github.com/wsydxiangwang/Note/blob/master/docs/web/vue2/20.md)
-- [Vue3.0 Nuxt3.16]爬坑记录(https://github.com/Tronzo/VueNote/issues/1)
+- [Vue3.0 Nuxt3.16爬坑记录](https://github.com/Tronzo/VueNote/issues/1)
  
 ### JavaScript
 
